@@ -1,4 +1,4 @@
-# Comment ignored by the computer
+h# Comment ignored by the computer
 print("Hello")
 print("There")
 yourname = input("Enter your name: ")
