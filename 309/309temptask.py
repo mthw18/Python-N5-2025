@@ -4,4 +4,4 @@ for index in range(0,5):
     while temperature < -20 or temperature > 50:
         print("These are invalid temperatures")
         temp = int(input("Please re-enter a valid temperature"))
-temperature.append(temp)
+temperature.append(temp)    
